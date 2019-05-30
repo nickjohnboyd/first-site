@@ -1,0 +1,17 @@
+img	{
+	width: 30%;
+	float: left;
+	/*10% left after row of 3 images used up 90% and 6 margins so 10/6 = 1.66*/
+	margin: 1.66%;
+}
+
+p {
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	margin-left: 1.66%;
+	border-bottom: 2px solid #F1F1F1;
+	padding-bottom: 20px;
+	width: 30%;
+}
